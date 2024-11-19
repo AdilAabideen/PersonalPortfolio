@@ -32,7 +32,7 @@ export default function ProjectsSection() {
       </div>
       <div className='flex flex-col w-[90%] lg:w-[75%] items-center lg:mt-20 lg:mb-12 justify-start gap-6'>
         <p className="text-3xl lg:text-5xl text-[#80D7D0] text-center font-gotham-narrow">
-          Some other things I've built
+          Some other things I&apos;ve built
         </p>
       </div>
       <BentoGrid className="w-[85%] lg:w-[75%] mx-auto">
